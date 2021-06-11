@@ -2,14 +2,14 @@
 
 ## This blog is still in progress
 
-## Installation Laravel and database
+### Installation Laravel and database
 - composer install
 - create a database (and user) with name 'blog'
 - rename .env.example to .env
 - set database credentials in your .env file
 - php artisan migrate:fresh --seed
 
-## Install Bootstrap UI and authentication
+### Install Bootstrap UI and authentication
 - composer require laravel/ui
 - php artisan ui bootstrap
 - php artisan ui bootstrap --auth
