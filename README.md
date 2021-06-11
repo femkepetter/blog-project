@@ -1,5 +1,7 @@
 # A blog in Laravel
 
+## This blog is still in progress
+
 ## Installation Laravel and database
 - composer install
 - create a database (and user) with name 'blog'
